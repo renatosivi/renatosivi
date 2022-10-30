@@ -3,7 +3,9 @@
 ## I am a Full Stack Developer! 💻
 
 I have always been interested in the area of exact sciences and during my studies in Electrical Engineering I had contact with programming with which I was delighted! 🌟
+Since then I have been studying and became a Full Stack Developer! 📚
 
+### Technologies:
 
 
 <!--
