@@ -11,6 +11,7 @@ Since then I have been studying and became a Full Stack Developer! 📚
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-green?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
