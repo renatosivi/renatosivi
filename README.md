@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, world! 🗺️
+
+## I am a Full Stack Developer! 💻
+
+I have always been interested in the area of exact sciences and during my studies in Electrical Engineering I had contact with programming with which I was delighted! 🌟
+
+
 
 <!--
 **Verkylen/Verkylen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
