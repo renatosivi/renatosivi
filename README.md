@@ -5,7 +5,7 @@
 I have always been interested in the area of exact sciences and during my studies in Electrical Engineering I had contact with programming with which I was delighted! ✨
 Since then I have been studying and became a Full Stack Developer! 📚
 
-### Technologies:
+### Technologies and tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -23,6 +23,6 @@ Since then I have been studying and became a Full Stack Developer! 📚
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-### Networks:
+### Talk to me:
 [![Linkedin Badge](https://img.shields.io/badge/-renatosv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatosv/)](https://www.linkedin.com/in/renatosv/)
 [![Gmail Badge](https://img.shields.io/badge/-verkylen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:verkylen@gmail.com)](mailto:verkylen@gmail.com)
