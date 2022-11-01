@@ -24,5 +24,5 @@ Since then I have been studying and became a Full Stack Developer! 📚
 
 
 ### Talk to me:
-[![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatosv/)](https://www.linkedin.com/in/renatosv/)
-[![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:verkylen@gmail.com)](mailto:verkylen@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-renatosv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatosv/)](https://www.linkedin.com/in/renatosv/)
+[![Gmail Badge](https://img.shields.io/badge/-verkylen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:verkylen@gmail.com)](mailto:verkylen@gmail.com)
