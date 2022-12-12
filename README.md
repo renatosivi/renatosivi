@@ -16,6 +16,7 @@ Since then I have been studying and became a Full Stack Developer! 📚
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js)
+![Angular](https://img.shields.io/badge/-Angular-1976D2?style=flat-square&logo=Angular&logoColor=DD0031)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-yellow?style=flat-square&logo=typescript)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
