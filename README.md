@@ -10,6 +10,7 @@ Since then I have been studying and became a Full Stack Developer! 📚
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-green?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
