@@ -1,6 +1,6 @@
 ### Hello, world! 🗺️
 
-## I am a Full Stack Developer! 💻
+## I am a Full Stack and Mobile Developer! 💻
 
 I have always been interested in the area of exact sciences and during my studies in Electrical Engineering I had contact with programming with which I was delighted! ✨
 Since then I have been studying and became a Full Stack Developer! 📚
@@ -17,9 +17,11 @@ Since then I have been studying and became a Full Stack Developer! 📚
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-yellow?style=flat-square&logo=typescript)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js)
-![Angular](https://img.shields.io/badge/-Angular-1976D2?style=flat-square&logo=Angular&logoColor=DD0031)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-6F2CF4?style=flat-square&logo=bootstrap)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
